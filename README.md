@@ -1,5 +1,7 @@
 local‑llm‑runner
 A simple tool to run lightweight language models (LLMs) locally without cloud services. Ideal for privacy, offline use, and testing.
+![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue)
+![License MIT](https://img.shields.io/badge/license-MIT-green)
 
 Features
 * Runs on CPU (no GPU required).
