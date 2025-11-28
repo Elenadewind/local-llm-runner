@@ -1,0 +1,33 @@
+COMMERCIAL LICENSE AGREEMENT
+For local-llm-runner
+
+1. GRANT OF LICENSE  
+   Licensor (elenadewind) grants Licensee a non-exclusive, non-transferable license to:  
+   - Use the Software in internal business operations.  
+   - Integrate into proprietary products for customers.  
+   - Deploy at scale (over 10 servers).  
+
+2. RESTRICTIONS  
+   - No sublicensing.  
+   - No redistribution of source code.  
+   - Cannot offer as a public SaaS without written consent.
+
+3. FEES  
+   Annual fee: [INSERT AMOUNT] USD.  
+   Invoiced annually on [DATE].
+
+4. SUPPORT  
+   Includes:  
+   - Priority issue handling (48h response).  
+   - Monthly security updates.  
+   - 2 hours of consulting per month.
+
+5. TERMINATION  
+   If Licensee breaches terms, license terminates immediately.
+
+6. GOVERNING LAW  
+   This agreement is governed by the laws of [YOUR COUNTRY].
+
+SIGNATURE:
+Licensor: ___________________  Date: _________  
+Licensee: ____________________  Date: _________
